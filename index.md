@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Byvettreglene
+Det kan være svært hyggelig å ta seg en spasertur i Oslos, enten det dreier seg om en spasertur ned Carl Johan eller rekreasjon i en av byens mange parker. Før du legger ut på tur, er det allikevel en del ting du bør ta hensyn til og planlegge turen ut fra.
 
-You can use the [editor on GitHub](https://github.com/tgravvold/byvettreglene/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Disse enkle reglende er ment som et hjelpemiddel for deg som ønsker å ta en trygg og hyggelig spasertur i Oslo eller andre byer i norge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Planlegg alltid turen og husk at det alltid er den sterkestes rett som gjelder. I norske gater er det lov å kjøre og sykle på fortau, i gågater og parker. Selv om det finnes regler for slik ferdsel, har ikke Politiet ressurser og mulighet til å håndheve dem. Den samme regelen gjelder for gående i byen som for kajakker på sjøen, "størst er først". Du har ikke lyst til å havne på legevakta fordi du glemte å ta hensyn til denne regelen.
+2. Tilpass turen etter evne og forhold. Er du dårlig til beins, sitter i rullestol, blind/svaksynt eller bare sliter med å hoppe til side på kort varsel, bør du tenke deg godt om i forhold til hvilken tur du legger ut på. Legg aldri ut på en tur i områder hvor det vanligvis ferdes mange på el-sparkesykkel, dersom du ikke har forutsetning for å takle forholdene. På godversdager kan det være lurt å holde seg inne.
+3. Ta hensyn til vær og kjøreforhold. På en riktig godværsdag, er det mange som ønsker å cruise rundt i byens sentrum og parker på elektriske sparkesykler og andre kjøretøy. Når kjøreforholdene er gode, er det best å holde seg hjemme. Dersom du allikevel ønsker å driste deg ut bør du ta hensyn til de som ønsker å benytte sin frihet til å suse rundt og ha det morro.
+4. Vær oppmerksom på sol og godt vær, selv på korte turer. Blir du overrasket av panservær på turen, vær forberedt på at de kjørende fort kan tenke at dette er en gylden mulighet for en kjøretur på fortauet. Selv om byen er godt utstyrt med sykkelfelt og biltrafikken er relativt lav, er det ikke så populært å benytte disse.
+5. Ta gjerne med utstyr for å hjelpe deg selv og andre. Det kan være lurt å ha med seg førstehjelpssaker og et par sykkelhjelmer, en til deg selv og en til sparkesyklisten du antagelig kommer til å støte borti. I norge tror man at hodet blir tykkere med alderen, dette stemmer ikke alltid.
+6. Ta trygge veivalg, noter deg hvilke fortau, gågater og parker det kjøres mye i og hold deg unna disse. Trygge veivalg handler om din egen sikkerhet og andres frihet.
+7. Bruk kartene som er tilgjengelig i appene fra de ulike sparkesykkelselskapene. Her kan du se hvor det er flest sparkesykler og størst fare for ulykker. Det er viktig at vi som gående støtter opp under næringslivet og skygger unna områdene hvor de internasjonale selskapene setter ut sine kjøretøy. Dersom du er uheldig å velte et kjøretøy eller kollidere med en kunde, kan dette ha stor skadevirkning på bunnlinja. Vit alltid hvor du er i forhold til hvor sparkesykler til en hver tid er satt ut.
+8. Vend i tide, det er ingen skam å snu. Dersom du opplever en nestenulykke eller annet ubehag, er det bare å snu. Det er mange gode podkaster eller TV-serier man kan nyte fra sin egen sofa, uten å utsette seg selv eller andre for fare.
+9. Spar på kreftene og søk ly om nødvendig. Trenger du å søke ly for fortauenes farer er en av byens mange puber et godt alternativ. Søker du ly lenge nok, kan det hende du glemmer hvorfor du søkte ly, da er det lurt å ta en Taxi hjem.
 
-### Markdown
+"Frihetsmaskinene" for massene har kommet for å bli. Da er det viktig at mindretallet innretter seg, og ikke ødelegger for Trine Skai Grande og andre av hennes like, som setter individets rett til frihet i høysetet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tgravvold/byvettreglene/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+GOD TUR!
